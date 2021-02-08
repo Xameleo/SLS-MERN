@@ -1,0 +1,7 @@
+{
+
+    "port":5000,
+    "jwtSecret":" WWWSTRWWWKEKWWWHONK",
+    "mongoUri":"mongodb+srv://Xameleo:Zxcv1234@cluster0.jl5zi.mongodb.net/app?retryWrites=true&w=majority",
+    "based_url":"http://localhost:5000"
+}
